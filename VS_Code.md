@@ -21,4 +21,4 @@
 
 ## 1-5. 檢視, 命令選擇區, JUPYTER
 
-[![Untitled]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd9d4ef0-cfe0-44bb-a65c-1bc2c9bcc67b/Untitled.png](https://i.imgur.com/QKa5x9B.png)https://i.imgur.com/QKa5x9B.png)](https://i.imgur.com/QKa5x9B.png)https://i.imgur.com/QKa5x9B.png
+https://i.imgur.com/QKa5x9B.png
