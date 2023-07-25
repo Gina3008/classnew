@@ -21,4 +21,4 @@
 
 ## 1-5. 檢視, 命令選擇區, JUPYTER
 
-(https://i.imgur.com/QKa5x9B.png)
+!(https://i.imgur.com/QKa5x9B.png)
