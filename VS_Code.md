@@ -9,11 +9,11 @@
 
 ## 1-2. 下載python, jupyter, jupyter keyme
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/faf800df-3ecf-416e-94b0-0ab53a3c9a5d/Untitled.png)
+![Untitled](https://i.imgur.com/YVeYRhu.png)
 
 ## 1-3. 下載python
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a55aa767-558e-4c24-828c-784fc49306c8/Untitled.png)
+![Untitled](https://i.imgur.com/6RntBix.png)
 
 ## 1-4. 重新開啟VS Code, 檔案(左上三條線), 開啟資料夾(在桌面新增一個新的), 選要開的模式(python)
 
