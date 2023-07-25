@@ -17,7 +17,7 @@
 
 ## 1-4. 重新開啟VS Code, 檔案(左上三條線), 開啟資料夾(在桌面新增一個新的), 選要開的模式(python)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4dbad6c3-c6bb-4c81-8820-d49a864d6bc8/Untitled.png)
+![Untitled](https://i.imgur.com/w5WzTck.png)
 
 ## 1-5. 檢視, 命令選擇區, JUPYTER
 
